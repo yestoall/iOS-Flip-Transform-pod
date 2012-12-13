@@ -1,8 +1,6 @@
 # iOS-Flip-Transform cocoapod
 
-cocoapod version of honcheng's PaperFold -> https://github.com/honcheng/PaperFold-for-iOS)
-
-updated to branch: "leftmultifold-attempt2"
+cocoapod version of dillion iOS-Flip-Transform -> https://github.com/Dillion/iOS-Flip-Transform
 
 i've port these great cocoa paper fold code to a cocoapod, for use it in rubymotion proyects
 
